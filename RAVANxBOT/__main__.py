@@ -74,44 +74,44 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-𝙷𝙾𝙸, 𝙸 𝙼 ꧁☠︎ ︻╦̵̵͇ ╤─Rⱥvⱥή♛ ☠︎꧂「👿🇮🇳👿」𝚁𝙾𝙱𝙾𝚃 💞........
-`𝙷𝙴𝚈 𝙸'𝙼 𝙷𝙴𝚁𝙴 𝚃𝙾 𝙷𝙴𝙻𝙿 𝚈𝙾𝚄 𝚃𝙾 𝙼𝙰𝙽𝙰𝙶𝙴 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿𝚂 𝙰𝙽𝙳 𝙸 𝙰𝙼 𝚅𝙴𝚁𝚈 𝙿𝙾𝚆𝙴𝚁𝙵𝚄𝙻𝙻 𝙱𝙾𝚃!!😅😁💕 𝙷𝙸𝚃 𝙰𝙳𝙳 𝙼𝙴 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝚃𝙾 𝚂𝙴𝙴 𝙼𝚈 𝙿𝙾𝚆𝙴𝚁 😎😎😎 ,𝙵𝙾𝚁 𝙱𝙾𝚃 𝙷𝙴𝙻𝙿 𝙼𝙴𝙽𝚄 𝚃𝚈𝙿𝙴` /help 💖
- [💞](https://te.legra.ph/file/3972670188dd54a994ea3.jpg)
+[💖](https://telegra.ph/file/8b89db5b068c56aba4217.png)
+𝗛𝗶𝗶, 𝗧𝗵𝗶𝘀 𝗶𝘀 **[𝗭𝗲𝗽𝗵𝘆𝗿](http://t.me/ZephyrManagerBot)
+𝗜'𝗺 𝗵𝗲𝗿𝗲 𝘁𝗼 𝗵𝗲𝗹𝗽 𝗺𝗮𝗻𝗮𝗴𝗶𝗻𝗴 𝘆𝗼𝘂𝗿 𝗴𝗿𝗼𝘂𝗽𝘀 .𝗔𝗱𝗱 𝗺𝗲 𝗶𝗻 𝘆𝗼𝘂𝗿 𝗴𝗿𝗼𝘂𝗽 𝗳𝗼𝗿 𝗺𝗼𝗿𝗲 𝘂𝘀𝗮𝗴𝗲 & 𝘁𝘆𝗽𝗲 /help 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗹𝗶𝘀𝘁 𝗼𝗳 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝘀 . 
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="Leke Chalo Group me or BHOKAL DEKHO", url="t.me/ravan_the_grp_managerbot?startgroup=true"),
+            text="𝗔𝗱𝗱 𝗺𝗲 𝗶𝗻 𝘆𝗼𝘂𝗿 𝗴𝗿𝗼𝘂𝗽 💞", url="t.me/ZephyrManagerBot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="𝚂𝚘𝚞𝚛𝚌𝚎💠", url=f"https://github.com/Dhruvxbhudev2/YoneRobot"),
+        InlineKeyboardButton(text="𝗦𝗼𝘂𝗿𝗰𝗲 ✨", url=f"https://github.com/Dhruvxbhudev2/YoneRobot"),
         InlineKeyboardButton(
-            text="√𝙱𝚘𝚝 𝚂𝚞𝚙𝚙𝚘𝚛𝚝⚡⚜️", url=f"https://t.me/{SUPPORT_CHAT}"
+            text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁 💖", url=f"https://t.me/ZephyrProjects"
         ),
     ],
     [
-        InlineKeyboardButton(text="𝙲𝚑𝚊𝚝𝚝𝚒𝚗𝚐 𝚐𝚛𝚘𝚞𝚙😗 ☑", url=f"https://t.me/yarokiyari_official"),
+        InlineKeyboardButton(text="𝗖𝗵𝗮𝘁𝘁𝗶𝗻𝗴 💫", url=f"https://t.me/princegehlot2"),
         InlineKeyboardButton(
-            text="My peru sarr ", url=f"https://t.me/versio_n_02"
+            text="♡︎ 𝗢𝘄𝗻𝗲𝗿 ♡︎ ", url=f"https://t.me/TheZephyrz"
         ),
     ],
     [
-        InlineKeyboardButton(text="💠𝙷𝙴𝙻𝙿💠", callback_data="help_back"),
+        InlineKeyboardButton(text="𝗛𝗲𝗹𝗽 ❣️", callback_data="help_back"),
     ],
 ]
 
 
 HELP_STRINGS = """
-`𝚈𝙾𝚄 𝙲𝙰𝙽 𝙲𝙷𝙾𝙾𝚂𝙴 𝙰𝙽 𝙾𝙿𝚃𝙸𝙾𝙽 𝙱𝙴𝙻𝙾𝚆, 𝙱𝚈 𝙲𝙻𝙸𝙲𝙺𝙸𝙽𝙶 𝙰 𝙱𝚄𝚃𝚃𝙾𝙽 𝚂𝙰𝙰𝚁 ✌️✌️..`
-𝙰𝙻𝚂𝙾 𝚈𝙾𝚄 𝙲𝙰𝙽 𝙰𝚂𝙺 𝙰𝙽𝚈𝚃𝙷𝙸𝙽𝙶 𝙸𝙽 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙶𝚁𝙾𝚄𝙿 ❤️❤️🙈 [❤️](https://te.legra.ph/file/f9ad1454feff24b7e78c6.mp4)"""
+𝗬𝗼𝘂 𝗰𝗮𝗻 𝗰𝗵𝗼𝗼𝘀𝗲 𝗮𝗻𝘆 𝗼𝗽𝘁𝗶𝗼𝗻 𝗯𝘆 𝗰𝗹𝗶𝗰𝗸𝗶𝗻𝗴 𝗳𝗿𝗼𝗺 𝗯𝗲𝗹𝗼𝘄 .
+𝗜𝗳 𝘆𝗼𝘂 𝗻𝗲𝗲𝗱 𝗮𝗻𝘆 𝗵𝗲𝗹𝗽 𝘆𝗼𝘂 𝗰𝗮𝗻 𝗱𝗺 𝘁𝗼 𝘁𝗵𝗲 [𝗢𝘄𝗻𝗲𝗿](https://t.me/TheZephyrz) [❤️](https://telegra.ph/file/956e943a3ebbd1c888d2f.mp4)"""
 
-START_IMG = "https://te.legra.ph/file/bdf25ef6ecd2f3010f79a.jpg"
+START_IMG = "https://telegra.ph/file/185c99bcb4418780b0d62.jpg"
 
-DONATE_STRING = """𝙷𝚎𝚢𝚊, 𝚐𝚕𝚊𝚍 𝚝𝚘 𝚑𝚎𝚊𝚛 𝚢𝚘𝚞 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚍𝚘𝚗𝚊𝚝𝚎💞!
- 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚜𝚞𝚙𝚙𝚘𝚛𝚝 𝚝𝚑𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝🥲 [Owner to here🤧](https://t.me/ravnbot_supportchat) \
- 𝚂𝚞𝚙𝚙𝚘𝚛𝚝𝚒𝚗𝚐 𝚒𝚜𝚗𝚝 𝚊𝚕𝚠𝚊𝚢𝚜 𝚏𝚒𝚗𝚊𝚗𝚌𝚒𝚊𝚕😁💖! [ 𝙽𝚎𝚝𝚠𝚘𝚛𝚔](https://t.me/bhudev_army_network) \
- 𝚃𝚑𝚘𝚜𝚎 𝚠𝚑𝚘 𝚌𝚊𝚗𝚗𝚘𝚝 𝚙𝚛𝚘𝚟𝚒𝚍𝚎 𝚖𝚘𝚗𝚎𝚝𝚊𝚛𝚢 𝚜𝚞𝚙𝚙𝚘𝚛𝚝 𝚊𝚛𝚎 𝚠𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚑𝚎𝚕𝚙 𝚞𝚜 𝚍𝚎𝚟𝚎𝚕𝚘𝚙 𝚝𝚑𝚎 𝚋𝚘𝚝 𝚊𝚝💖 ."""
+DONATE_STRING = """𝗛𝗲𝘆𝗮, 𝗴𝗹𝗮𝗱 𝘁𝗼 𝗵𝗲𝗮𝗿 𝘁𝗵𝗮𝘁 𝘆𝗼𝘂 𝘄𝗮𝗻𝘁 𝘁𝗼 𝗱𝗼𝗻𝗮𝘁𝗲 💞!
+ 𝗬𝗼𝘂 𝗰𝗮𝗻 𝘀𝘂𝗽𝗽𝗼𝗿𝘁 𝘁𝗵𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗵𝗲𝗿𝗲 [𝗢𝘄𝗻𝗲𝗿♡︎](https://t.me/FinalStrikeOp) \
+ 𝗦𝘂𝗽𝗽𝗼𝗿𝘁𝗶𝗻𝗴 𝗶𝘀𝗻'𝘁 𝗮𝗹𝘄𝗮𝘆𝘀 𝗳𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 💖! [ 𝗡𝗲𝘁𝘄𝗼𝗿𝗸 ](https://t.me/ZephyrXNetwork) \
+ 𝗧𝗵𝗼𝘀𝗲 𝘄𝗵𝗼 𝗰𝗮𝗻 𝗻𝗼𝘁 𝗽𝗿𝗼𝘃𝗶𝗱𝗲 𝗺𝗼𝗻𝗲𝘁𝗮𝗿𝘆. 𝗬𝗼𝘂 𝗰𝗮𝗻 𝘀𝘂𝗽𝗽𝗼𝗿𝘁 𝘂𝘀 𝘁𝗼 𝗱𝗲𝘃𝗲𝗹𝗼𝗽 𝘁𝗵𝗲 𝗯𝗼𝘁 💖✨!"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -224,7 +224,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_video(
-            START_IMG, caption= "<code>°꧁☠︎ ︻╦̵̵͇ ╤─Rⱥvⱥή♛ ☠︎꧂「🇮🇳」 𝚒𝚜 𝙷𝚎𝚛𝚎 𝙵𝚘𝚛 𝚈𝚘𝚞 🎀 𝙸 𝚊𝚖 𝙰𝚠𝚊𝚔𝚎 𝚂𝚊𝚊𝚛⚡°•️•°:🚀𝚜𝚒𝚗𝚌𝚎🤨🚀:</code>: <code>{}</code>".format(
+            START_IMG, caption= "<code>°𝗧𝗵𝗲 [𝗭𝗲𝗽𝗵𝘆𝗿](http://t.me/ZephyrManagerBot) 𝗶𝘀 𝗮𝘄𝗮𝗸𝗲 𝘀𝗶𝗻𝗰𝗲✨:</code>: <code>{}</code>".format(
                 uptime            
             ),
             parse_mode=ParseMode.HTML,
@@ -359,7 +359,7 @@ def devx_about_callback(update, context):
     query = update.callback_query
     if query.data == "devx_":
         query.message.edit_text(
-            text=""" ℹ️️ I am [꧁☠︎ ︻╦ ╤─Rⱥvⱥή♛ ☠︎꧂「🇮🇳」](t.me/ravan_the_grp_managerbot), a powerful group management bot built to help you manage your group easily.
+            text=""" 𝗜 𝗮𝗺  [𝗭𝗲𝗽𝗵𝘆𝗿](http://t.me/ZephyrManagerBot),𝗮 𝗽𝗼𝘄𝗲𝗿𝗳𝘂𝗹 𝗴𝗿𝗼𝘂𝗽 𝗺𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 𝗯𝗼𝘁 𝗯𝘂𝗶𝗹𝗱 𝘁𝗼 𝗵𝗲𝗹𝗽 𝘆𝗼𝘂𝗿 𝗺𝗮𝗻𝗮𝗴𝗲 𝘆𝗼𝘂𝗿 𝗴𝗿𝗼𝘂𝗽 𝗲𝗮𝘀𝗶𝗹𝘆.
                  \n❍ I can restrict users.
                  \n❍ I can greet users with customizable welcome messages and even set a group's rules.
                  \n❍ I have an advanced anti-flood system.
@@ -367,7 +367,7 @@ def devx_about_callback(update, context):
                  \n❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  \n❍ I check for admins' permissions before executing any command and more stuffs
                  \n\n_DEVX's licensed under the GNU General Public License v3.0_
-                 \n❍ Assistant NOT AVAILABELE RIGHT NOW SOON.
+                 \n❍ Assistant NOT AVAILABELE RIGHT NOW .
                  \nHere is the [💞Repository](https://github.com/Dhruvxbhudev2/YoneRobot).
                  \n\nIf you have any question about bot, let us know at .""",
             parse_mode=ParseMode.MARKDOWN,
@@ -395,8 +395,8 @@ def Source_about_callback(update, context):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I am [꧁☠︎ ︻╦̵̵͇ ╤─Rⱥvⱥή♛ ☠︎꧂「👿」]](t.me/ravan_the_grp_managerbot)
-                 \nHere is the [Source Code](https://github.com/Dhruvxbhudev2/YoneRobot) .""",
+            text=""" 𝗛𝗶, 𝗶 𝗮𝗺 [𝗭𝗲𝗽𝗵𝘆𝗿](http://t.me/ZephyrManagerBot)
+                 \n𝗛𝗲𝗿𝗲 𝗶𝘀 𝘁𝗵𝗲 [𝗦𝗼𝘂𝗿𝗰𝗲 𝗰𝗼𝗱𝗲](https://github.com/Dhruvxbhudev2/YoneRobot) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -691,7 +691,7 @@ def main():
 
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
-            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "Zinda Hu 👿")
+            dispatcher.bot.sendMessage(f"@FinalStrikeOp", "𝗔𝗹𝗶𝘃𝗲 💖")
         except Unauthorized:
             LOGGER.warning(
                 "Bot isnt able to send message to support_chat, go and check!"
